@@ -41,7 +41,7 @@ Contributions to this project are welcome. To contribute, follow these steps:
 5. Submit a pull request
 
 <h3>Credits</h3>
-This project was created by <b>Chetan Goyal</b>.
+This project is created by <b>Chetan Goyal</b>.
 <br><br>
 The blog posts used in this project are provided by JSONPlaceholder.
 
